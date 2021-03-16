@@ -1,22 +1,23 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+### <h1 align="center">Hi 👋, I'm Emme.</h1>
+<h3 align="center">A Software Engineer @ 100Devs in Los Angeles, CA.</h3>
 
-### <div align="center">Hello 👋 I'm Emme, a creative and passionate Software Engineer in Los Angeles, CA.</div>  
-  
+- 🔭 I’m currently working on **a niche dating app**
 
-- 🔭 I’m currently working on a niche dating app...  
-  
+- 🌱 I’m currently learning **Swift**
 
-- 🌱 I’m currently learning Swift  
-  
+- 👨‍💻 All of my projects are available at [mbcodes.netlify.app](mbcodes.netlify.app)
 
-- ❓ Ask me about anything related to MERN stack and theatre.  
-  
+- 📝 I regularly write articles on [mbblog.netlify.app](mbblog.netlify.app)
 
-- ⚡ Fun fact: I love acting with larval masks  
-  
+- 💬 Ask me about **anything...**
+
+- 📫 How to reach me **mbcodes@protonmail.com**
+
+- ⚡ Fun fact **I love acting in larval masks.**
+ 
 
 <br/>  
 

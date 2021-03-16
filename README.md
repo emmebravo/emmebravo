@@ -95,4 +95,5 @@
 <br/>  
 
 ----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmebravo&show_icons=true&locale=en" alt="emmebravo" /></p>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

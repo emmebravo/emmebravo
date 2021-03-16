@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello 👋 I'm Emme, a creative and passionate Software Engineer living life in Los Angeles, CA.</div>  
+### <div align="center">Hello 👋 I'm Emme, a creative and passionate Software Engineer in Los Angeles, CA.</div>  
   
 
 - 🔭 I’m currently working on a niche dating app...  

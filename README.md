@@ -29,15 +29,12 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=plastic&logo=javascript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=plastic&logo=react&logoColor=00c8ff)
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -46,13 +43,14 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=plastic&logo=mysql&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/-Express.js-787878?style=plastic)
+![Node](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=Node.js&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-F1502F?style=plastic&logo=git&logoColor=FFFFFF)
+![Github](http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white)
+![Heroku](http://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku&logoColor=white) 
 </div>
 
 </td><td valign="top" width="33%">

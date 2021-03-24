@@ -16,10 +16,7 @@
 
 - 📫 How to reach me **mbcodes@protonmail.com**
 
-- ⚡ Fun fact **I love acting in larval masks.**
- 
-
-<br/>  
+- ⚡ Fun fact **I love acting in larval masks.** 
 
 
 ## My Skill Set  
@@ -29,8 +26,14 @@
 
 ### Frontend  
 <div align="center">  
-
-
+<img src=https://img.shields.io/badge/-HTML-%23E34F26?style=plastic&logo=html5&logoColor=white alt=HTML />
+<img src=https://img.shields.io/badge/-CSS-%231572B6?style=plastic&logo=css3&logoColor=white alt=CSS />
+<img src=https://img.shields.io/badge/-Bootstrap-%237952B3?style=plastic&logo=bootstrap&logoColor=white alt=Bootstrap />
+<img src=https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black alt=JavaScript />
+<img src=https://img.shields.io/badge/-React-%2361DAFB?style=plastic&logo=react&logoColor=black alt=React />
+<img src=https://img.shields.io/badge/-TypeScript-%233178C6?style=plastic&logo=typescript&logoColor=white alt=TypeScript />
+<img src=https://img.shields.io/badge/-Photoshop-%2331A8FF?style=plastic&logo=adobe-photoshop&logoColor=white alt='Adobe Photoshop' />
+<img src=https://img.shields.io/badge/-Illustrator-%23FF9A00?style=plastic&logo=adobe-illustrator&logoColor=white alt='Adobe Illustrator' />
 </div>
 
 </td><td valign="top" width="33%">
@@ -51,29 +54,24 @@
 
 </div>
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
 
 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/emmebravo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-GitHub-%23181717?style=plastic&logo=github alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mbravo-01" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/emmebravo" target="_blank">
+<img src=https://img.shields.io/badge/-LinkedIn-%230A66C2?style=plastic&logo=linkedin alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/mbcodes.io" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/emmebravo" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
+</div>
 
 
 ## Github Stats  
@@ -82,4 +80,4 @@
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">credits: <a href="https://profilinator.rishav.dev/" target="_blank">here</a>, here, & here</div>

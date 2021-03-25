@@ -48,6 +48,7 @@
 <img src=https://img.shields.io/badge/-MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white alt=MongoDB />
 <img src=https://img.shields.io/badge/-VS%20Code-%23007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white alt='VS Code' />
 <img src=https://img.shields.io/badge/-Heroku-%23430098?style=plastic&logo=heroku&logoColor=white alt=Heroku />
+<img src=https://img.shields.io/badge/-Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white alt=Postman />
 </div>
 </td>
 <td valign="top" width="33%">

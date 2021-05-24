@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Emme.</h1>
 <h3 align="center">A Software Engineer @ 100Devs in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on **a niche dating app**
+- 🔭 I’m currently working on **a donation app for mutual aid**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [mbcodes.netlify.app](mbcodes.netlify.app)
 

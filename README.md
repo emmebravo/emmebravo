@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Emme.</h1>
+<h1 align="center">Hi, I'm Emme.</h1>
 <h3 align="center">A Software Engineer @ 100Devs in Los Angeles, CA.</h3>
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
@@ -54,7 +54,7 @@
 </td>
 <td valign="top" width="33%">
   
-### DevOps  
+### Cloud  
 <div align="center">  
 <img src=https://img.shields.io/badge/-AWS-%23232F3E?style=plastic&logo=amazon%20aws&logoColor=white alt=AWS />
 <img src=https://img.shields.io/badge/-Azure-%230089D6?style=plastic&logo=microsoft%20azure&logoColor=white alt=Azure />

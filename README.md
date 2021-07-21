@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **...**
 
 - 👨‍💻 All of my projects are available at [mbcodes.netlify.app](mbcodes.netlify.app)
-
-- 📝 I regularly write articles on [mbblog.netlify.app](mbblog.netlify.app)
 
 - 💬 Ask me about **anything...**
 

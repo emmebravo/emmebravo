@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
 
-- 🌱 I’m currently learning **Swift && Go**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [mbcodes.netlify.app](mbcodes.netlify.app)
 

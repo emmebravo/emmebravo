@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 65%" />
 </div>  
 <h1 align="center">Hi, I'm Emme.</h1>
 <h3 align="center">A Software Engineer @ 100Devs in Los Angeles, CA.</h3>

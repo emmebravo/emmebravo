@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [mbcodes.tech](www.mbcodes.tech)
+- 👨‍💻 All of my projects are available at [mbcodes.tech](https://www.mbcodes.tech)
 
 - 💬 Ask me about **anything...**
 

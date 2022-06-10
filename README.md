@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emme.</h1>
-<h3 align="center">A Software Engineer @ 100Devs in Los Angeles, CA.</h3>
+<h3 align="center">A Software Engineer in Los Angeles, CA.</h3>
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
 

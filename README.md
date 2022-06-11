@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Go & Linux**
 
 - 👨‍💻 All of my projects are available at [mbcodes.tech](https://www.mbcodes.tech)
 

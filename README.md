@@ -70,9 +70,9 @@
 <a href="https://instagram.com/mbcodes.io" target="_blank">
 <img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/emmebravo" target="_blank">
+<!-- <a href="https://twitter.com/emmebravo" target="_blank">
 <img src=https://img.shields.io/badge/-Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>
 
 <br/>  

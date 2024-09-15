@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a donation app for mutual aid**
 
-- 🌱 I’m currently learning **Go & Linux**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [mbcodes.tech](https://www.mbcodes.tech)
+- 👨‍💻 All of my projects are available at [https://mbcodes](https://mbcodes.netlify.app)
 
 - 💬 Ask me about **anything...**
 
-- 📫 How to reach me **mbcodes@protonmail.com**
+- 📫 How to reach me **mbcodes@proton.me**
 
 - ⚡ Fun fact **I love acting in larval masks.** 
 

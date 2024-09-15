@@ -42,10 +42,12 @@
 <img src=https://img.shields.io/badge/-Express-black?style=plastic&logo=express&logoColor=white alt=Express.js />
 <img src=https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white alt=Python />
 <img src=https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white alt=Django />
+<img src=https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white alt=Java />
 <img src=https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=white alt=Git />
 <img src=https://img.shields.io/badge/-GitHub-%23181717?style=plastic&logo=github alt=GitHub />
 <img src=https://img.shields.io/badge/-MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white alt=MongoDB />
 <img src=https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql&logoColor=white alt=MySQL />
+<img src=https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black alt=Firebase />
 <img src=https://img.shields.io/badge/-VS%20Code-%23007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white alt='VS Code' />
 <img src=https://img.shields.io/badge/-Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white alt=Postman />
 </div>

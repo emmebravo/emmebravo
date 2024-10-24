@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Emme.</h1>
 <h3 align="center">A Software Engineer in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on **a donation app for mutual aid**
+- 🔭 I’m currently working on **Djangonaut Space**
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://mbcodes](https://mbcodes.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://mbcodes.netlify.app)
 
-- 💬 Ask me about **anything...**
+- 💬 Ask me about **theatre...**
 
 - 📫 How to reach me **mbcodes@proton.me**
 
@@ -73,12 +73,6 @@
 <a href="https://linkedin.com/in/emmebravo" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-%230A66C2?style=plastic&logo=linkedin alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/mbcodes.io" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://twitter.com/emmebravo" target="_blank">
-<img src=https://img.shields.io/badge/-Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>   -->
 </div>
 
 <br/>  

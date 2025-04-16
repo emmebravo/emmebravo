@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Djangonaut Space**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working with **Go**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://mbcodes.netlify.app)
 

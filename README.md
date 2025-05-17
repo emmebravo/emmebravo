@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emme.</h1>
 <h3 align="center">A Software Engineer in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on **[Together](https://github.com/emmebravo/Together)**
+- 🔭 I’m currently working on **[Together](https://github.com/Together-100Devs/Together)**
 
 - 🌱 I’m currently working with **Go**
 

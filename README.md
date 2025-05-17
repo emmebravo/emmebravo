@@ -26,7 +26,7 @@
 <img src=https://img.shields.io/badge/-Bootstrap-%237952B3?style=plastic&logo=bootstrap&logoColor=white alt=Bootstrap />
 <img src=https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black alt=JavaScript />
 <img src=https://img.shields.io/badge/-React-%2361DAFB?style=plastic&logo=react&logoColor=black alt=React />
-<img src=https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=white alt=Vue.js />
+<img src=https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D alt=Vue.js />
 <img src=https://img.shields.io/badge/-TypeScript-%233178C6?style=plastic&logo=typescript&logoColor=white alt=TypeScript />
 <img src=https://img.shields.io/badge/-WordPress-%2321759B?style=plastic&logo=wordpress&logoColor=white alt=WordPress />
 <img src=https://img.shields.io/badge/-Photoshop-%2331A8FF?style=plastic&logo=adobe-photoshop&logoColor=white alt='Adobe Photoshop' />
